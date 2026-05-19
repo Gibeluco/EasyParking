@@ -1,0 +1,10 @@
+ABC1234;Civic;2;Carro
+XYZ9999;CG160;5;Moto
+AAA0001;Volvo FH;1;Caminhao
+DEF5678;Corolla;4;Carro
+GHI4321;Biz 125;3;Moto
+JKL7777;HB20;6;Carro
+MNO8888;Titan 160;2;Moto
+PQR5555;Scania R450;8;Caminhao
+STU2222;Onix;1;Carro
+VWX1111;XRE 300;4;Moto
